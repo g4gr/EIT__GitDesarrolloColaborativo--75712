@@ -1,0 +1,13 @@
+
+
+/.env/
+
+*password*
+
+*pass*
+
+*contra*
+
+/node_modules/
+
+/NoSeSube
