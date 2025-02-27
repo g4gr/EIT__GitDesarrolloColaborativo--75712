@@ -1,0 +1,56 @@
+20:01:36 De Milagros :: Asistente Académica a Instructor :: Gaby (mensaje directo):
+	Hola Gaby, buenas tardes!
+	Instructor :: Gaby:👋
+	
+20:01:45 De Milagros :: Asistente Académica a Instructor :: Gaby (mensaje directo):
+	Ahi te pase el co-host, cualquier inconveniente avisame
+	
+20:02:19 De Instructor :: Gaby a Milagros :: Asistente Académica (mensaje directo):
+	Replying to "Ahi te pase el co-host, cualquier inconveniente av...":
+	¡Muchas gracias Mili !!
+	
+20:02:38 De Instructor :: Gaby a Todos:
+	¡Hola!¿Cómo andan ?
+	
+20:02:42 De Instructor :: Gaby a Todos:
+	Arrancamos en 5 min.
+	
+20:10:09 De Instructor :: Gaby a Todos:
+	Disculpen, estoy con un problema de audio, ya arrancamos
+	
+20:11:12 De Julian Orellana-794280 a Todos:
+	Buenas noches profe
+	
+20:11:15 De Julian Orellana-794280 a Todos:
+	si , se escuha
+	
+20:11:18 De Julian Orellana-794280 a Todos:
+	escucha
+	
+20:11:24 De Sergio Rubén López-660564 a Todos:
+	buenas noches
+	
+20:11:44 De Carol Serpa-911019 a Todos:
+	Buenasss...
+	
+20:11:55 De Alejandro Demarco a Todos:
+	buenas
+	
+21:23:00 De German Caro Velazquez-1057781 a Todos:
+	git config --global commit.template ~/.git_merge_template.txt
+	
+21:24:51 De German Caro Velazquez-1057781 a Todos:
+	git config --global merge.template ~/.git_merge_template.txt
+	
+21:43:30 De Julian Orellana-794280 a Todos:
+	miercoles
+	
+21:43:50 De Julian Orellana-794280 a Todos:
+	chau profer, hasta la proxima
+	
+21:44:06 De Sergio Rubén López-660564 a Todos:
+	hasta la proxima
+	
+21:44:25 De Alejandro Demarco a Todos:
+	saludos, gracias por la clase
+	

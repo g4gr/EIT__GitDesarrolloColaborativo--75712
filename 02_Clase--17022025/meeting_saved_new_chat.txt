@@ -1,0 +1,64 @@
+19:54:50 De Instructor :: Gaby a Ana Vilarino- asistente academica (mensaje directo):
+	¡Hola Ana, buenas noches!Espero te encuentres muy y muchas gracias por el soporte en la clase de hoy
+	
+19:55:07 De Instructor :: Gaby a Ana Vilarino- asistente academica (mensaje directo):
+	Cuando puedas ¿me pasas los permisos de co-host?
+	
+20:00:34 De Instructor :: Gaby a Todos:
+	¡Hola, buenas noches!Arrancamos en 5 min.
+	
+20:06:50 De Julian Orellana-794280 a Todos:
+	Buenas noches profe
+	
+20:06:58 De Nicolas Bolivar-981853 a Todos:
+	buenas tardes!
+	
+20:07:01 De Maximiliano Espeleta-984066 a Todos:
+	buenas!
+	
+20:07:21 De Sergio R. Lopez a Todos:
+	buenas
+	
+20:07:27 De Ian Osses a Todos:
+	hola!!
+	
+20:07:54 De Alejandro Demarco a Todos:
+	muy buenas
+	
+20:48:37 De German Caro Velazquez-1057781 a Todos:
+	 mi editor VIM no muestra el numero de línea, eso esta bien?
+	
+20:48:40 De German Caro Velazquez-1057781 a Todos:
+	{EF6F1C3E-A872-4599-9DD8-292BB60BF61F}.png
+	
+20:48:46 De Belén Raymundo a Todos:
+	same
+	
+20:52:49 De Yulian Enrique Planas Reyes-1043293 a Todos:
+	Pero esa configuración seria temporal durante la sesión de vim
+	
+20:53:16 De Yulian Enrique Planas Reyes-1043293 a Todos:
+	De ser permanente debe ser en el .vimrc ¿Correcto?
+	
+20:54:33 De Yulian Enrique Planas Reyes-1043293 a Todos:
+	Suelo usar vim, es muy practico , me gusta también
+	
+20:54:59 De Yulian Enrique Planas Reyes-1043293 a Todos:
+	Recuerdo estar semanas sin saber usar el registro del portapapeles
+	Instructor :: Gaby:😂
+	
+20:55:08 De Yulian Enrique Planas Reyes-1043293 a Todos:
+	hermoso
+	
+21:31:34 De Belén Raymundo a Todos:
+	dale, nos vemos
+	
+21:31:55 De Julian Orellana-794280 a Todos:
+	Chau profe , hasta el miércoles.
+	
+21:32:05 De Alejandro Demarco a Todos:
+	muchas gra
+	
+21:32:08 De Sergio R. Lopez a Todos:
+	chau
+	
